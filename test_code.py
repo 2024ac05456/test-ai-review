@@ -4,6 +4,6 @@ def calculate(a,b):
     return result
 
 
-calculate(10,2a0)
+#calculate(10,2a0)
 
 #calculate(1a,20)
