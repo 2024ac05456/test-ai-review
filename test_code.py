@@ -5,3 +5,5 @@ def calculate(a,b):
 
 
 calculate(10,2a0)
+
+calculate(1a,20)
