@@ -11,3 +11,5 @@ calculate(1a,20)
 password=12346565698a
 
 password2=kjsbckbkdgd
+
+query="Select * from table"
